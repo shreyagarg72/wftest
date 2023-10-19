@@ -1,0 +1,161 @@
+.form-class {
+    background-color: #eff1f3;
+    margin: auto;
+    margin-top: 150px;
+    border: 1px solid #888;
+    width: 550px;
+    border-radius: 5px;
+  }
+  .login-page {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #555555;
+  }
+  .login-page h4 {
+    height: 0px;
+    padding: 0 20px;
+    margin-top: 10px;
+  }
+  .page {
+    padding: 20px;
+    border-radius: 5px;
+  }
+  .login-form {
+    background-color: #fff;
+    text-align: center;
+    margin: 9px;
+  }
+  .inner-page {
+    margin: 0;
+    /* padding: 0; */
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  .tab-label {
+    color: #555;
+    border: 1px solid #ddd;
+    border-top: 2px solid #0f9d58;
+    border-bottom: 3px solid #fff;
+    background-color: #fff;
+    display: inline-block;
+    margin: 0 0 -1px;
+    padding: 15px 25px;
+    font-weight: 600;
+    text-align: center;
+    color: #888;
+    border: 1px solid transparent;
+    width: 20%;
+    padding-bottom: 5px;
+    font-size: 15px;
+    border-bottom-width: 4px;
+    background-color: #e9ebee;
+  }
+  .content1 {
+    display: none;
+    padding: 20px 30px 30px 30px;
+    border: 1px solid #ddd;
+    border-bottom: none;
+  }
+  form {
+    margin-bottom: 14px;
+  }
+  .rem1{
+    margin: 40px;
+  }
+  .rem1 text{
+    margin: 0px;
+  }
+  .centered{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.remember{
+width: 90%;
+height: 7%;    
+font-size: 12px;
+font-weight: 500;
+font-family: Roboto Condensed;
+/* background-color: red; */
+margin-bottom: 10px;
+justify-content: space-between;
+}
+.forget{
+color: #777777;
+}
+.links{
+width: 100%;
+height: 28%;
+flex-direction: column;
+/* background-color: red; */
+}
+.link1{
+width: 80%;
+height: 40%;
+justify-content: space-between;
+}
+.google{
+width: 45%;
+height: 80%;
+color: white;
+font-weight: 500;
+font-family: Roboto Condensed;
+border-radius: 5px;
+background-color: #d64b3e;
+display: flex;
+align-items: center;
+}
+i{
+padding: 0 20px 0 10px;
+margin-right: 15px;
+}
+.facebook{
+width: 45%;
+height: 80%;
+color: white;
+font-weight: 500;
+font-family: Roboto Condensed;
+border-radius: 5px;
+background-color: #43609c;
+display: flex;
+align-items: center;
+}
+.link2{
+width: 80%;
+height: 40%;
+justify-content: space-between;
+}
+.linkedin{
+width: 45%;
+height: 80%;
+color: white;
+font-weight: 500;
+font-family: Roboto Condensed;
+border-radius: 5px;
+background-color: #04659b;
+display: flex;
+align-items: center;
+}
+.github{
+width: 45%;
+height: 80%;
+color: white;
+font-weight: 500;
+font-family: Roboto Condensed;
+border-radius: 5px;
+background-color: #343131;
+display: flex;
+align-items: center;
+}
+.whyCreate{
+color: #0f9d58;
+font-weight: 400;
+font-family: Roboto Condensed;
+text-align: center;
+}
